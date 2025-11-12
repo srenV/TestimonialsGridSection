@@ -38,6 +38,7 @@ p {
 }
 
 .wrapper {
+  scale: 90%;
   display: grid;
   grid-auto-columns: 18em;
   grid-auto-rows: auto;
