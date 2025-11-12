@@ -60,8 +60,9 @@ p {
   background-color: hsl(263, 55%, 52%);
   color: white;
   background-image: url(./images/bg-pattern-quotation.svg);
+  background-size: 20%;
   background-repeat: no-repeat;
-  background-position-x: 86%;
+  background-position-x: 75%;
 }
 #box2 {
   grid-area: box2;
