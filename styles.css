@@ -8,9 +8,10 @@
 body {
   background-color: hsl(214, 17%, 92%);
   height: 100dvh;
-  display: grid;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  grid-template-rows: 1fr auto 1fr;
+  align-items: center;
   margin: 0;
 }
 
