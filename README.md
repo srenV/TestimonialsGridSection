@@ -1,6 +1,8 @@
 # Frontend Mentor - Testimonials grid section
 This is my solution to the Testimonials grid section challenge on Frontend Mentor.
 
+ https://srenv.github.io/TestimonialsGridSection/
+
 ## Overview
 
 A simple, responsive layout showcasing a testimonials grid section. The goal is to practice alignment, spacing, and basic responsive design using HTML and CSS.
